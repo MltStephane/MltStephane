@@ -1,38 +1,35 @@
-### Hi, I'm Stéphane 👨🏽‍💻
-Bonjour,
+### Hi, I'm Stéphane 👋
 
-Je suis développeur web full-stack avec une appétence pour le back-end spécialisé dans le développement d’applications web et de sites internet. 
+Full-stack web developer with a back-end focus, based in Montpellier, France. I've been writing PHP professionally since 2020: **Symfony** at work, **Laravel** for my own products and open source.
 
-Passionné depuis plus de 7 ans, dont 3 en tant que professionnel, je développe avec différents frameworks de PHP (Symfony et Laravel).
+- 🏢 Full-stack developer at [Free Mobile](https://mobile.free.fr/) and [Free Réunion](https://mobile.free.re/), French telecom operators (Symfony/PHP, Python, React)
+- 🐘 Co-organizer of the [AFUP Montpellier PHP meetups](https://www.meetup.com/fr-FR/montpellier-php-meetup/) since 2023
+- 🤖 Currently building: Laravel quality tooling designed for AI coding agents, and extensions for [OpenChamber](https://openchamber.dev)
 
-**Pourquoi travailler avec moi ?**
-- Je suis autonome, et je peux pratiquer le 100 % télétravail.
-- Je sais comprendre rapidement les différents besoins et y répondre.
-- Je m’adapte avec facilité aux différentes situations.
-- Je suis opérationnel de suite sur énormément de technologies web.
+#### 🚀 Products
 
-**Sujets et problématiques sur lesquelles j’ai pu travailler**
-- Application web sur mesure, CRM, ERP, Boutique en ligne et SaaS
-- Module de facturation
-- Module de prise de rendez-vous
-- Paiement en ligne (Stripe)
-- Intégration d’API (Algolia, Mondial Relay, Truck Online)
-- Migration et mise à niveau
-- Optimisation SEO / Performance
+| Project | What it does | Stack |
+|---|---|---|
+| [**PetitSyndic**](https://mulot.dev/projects/petitsyndic) | Condominium management software for volunteer property managers: fund calls, charges, budgets, general meetings | Laravel, Livewire |
+| [**Secret Panda**](https://mulot.dev/projects/secret-panda) | Secret Santa draws with anonymous messaging | Laravel, Livewire |
+| [**Kinot**](https://mulot.dev/projects/kinot) | Score keeper for board games, web and mobile, works offline | Laravel |
 
-**Technologies et outils avec lesquels j’ai pu travailler**
-- PHP 8, 7, 5
-- Javascript
-- Symfony 5, 4, 3
-- Sylius
-- Laravel 10, 9, 8, 7, 5.7
-- Tailwind CSS
-- Vue.js 3, 2
-- React.js
-- Alpine.js
-- MySQL 8, 5
-- Elastic Search
-- Algolia Search
-- NativeScript
-- Docker
-- Git
+#### 🧰 Open source
+
+**My packages**
+- [`laravel-quality`](https://github.com/MltStephane/laravel-quality): shared static analysis and architecture rules for Laravel (Larastan config, Pest arch preset, `quality:install`). Deterministic checks that AI agents and humans run instead of rules written in prose.
+- [`openchamber-git-graph`](https://github.com/MltStephane/openchamber-git-graph) · [`openchamber-context`](https://github.com/MltStephane/openchamber-context): OpenChamber extensions (git history graph, Claude Code's `/context` in a sidebar tab).
+
+**Merged contributions**
+[laravel/docs](https://github.com/laravel/docs/pull/8509) · [livewire/livewire](https://github.com/livewire/livewire/pulls?q=is%3Apr+author%3AMltStephane+is%3Amerged) · [openchamber/openchamber](https://github.com/openchamber/openchamber/pulls?q=is%3Apr+author%3AMltStephane+is%3Amerged) · [wireui/wireui](https://github.com/wireui/wireui/pulls?q=is%3Apr+author%3AMltStephane+is%3Amerged) · [Laravel-Lang/starter-kits](https://github.com/Laravel-Lang/starter-kits/pulls?q=is%3Apr+author%3AMltStephane+is%3Amerged) · [radicalloop/eodhistoricaldata](https://github.com/radicalloop/eodhistoricaldata/pulls?q=is%3Apr+author%3AMltStephane+is%3Amerged)
+
+#### 🛠️ Stack
+
+**Back-end**: PHP 8, Laravel, Livewire, Symfony, Sylius, Python, MySQL, PostgreSQL, Elasticsearch  
+**Front-end**: React, Vue.js, Alpine.js, Tailwind CSS, TypeScript  
+**AI**: agentic coding with Claude Code, OpenCode and OpenChamber  
+**Tooling**: Pest, PHPStan/Larastan, Docker, CI/CD, Linux
+
+#### 📫 Find me
+
+[mulot.dev](https://mulot.dev) · [linkedIn](https://www.linkedin.com/in/stephanemulot) · [malt](https://www.malt.fr/profile/stephanemulot)
